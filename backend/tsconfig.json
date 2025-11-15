@@ -1,0 +1,12 @@
+  {
+    "compilerOptions": {
+      "target": "esnext", // or a newer target like "esnext"
+      "module": "commonjs",
+      "outDir": "./dist", // Output directory for compiled JavaScript
+      "rootDir": "./", // Root directory for TypeScript source files
+      "esModuleInterop": true,
+      "strict": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
