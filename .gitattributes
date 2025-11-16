@@ -1,0 +1,6 @@
+# Force LF for shell scripts
+*.sh text eol=lf
+
+# Optional: force LF for Docker-related files
+Dockerfile text eol=lf
+*.env text eol=lf
