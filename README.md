@@ -44,8 +44,8 @@ Ensure you have:
 Clone Repository
 
 ```bash
-git clone https://github.com/HarronTan/Task-Assignment.git
-cd Task-Assignment
+git clone https://github.com/HarronTan/Task_Assignment.git
+cd Task_Assignment
 ```
 
 Ensure you add the .env file to root directory
